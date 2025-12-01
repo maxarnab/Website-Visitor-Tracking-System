@@ -60,7 +60,7 @@ user_id,website
 
 
 
-##Purpose
+## Purpose
 
 This project is designed to demonstrate core data processing techniques in Python, including CSV parsing, data cleaning, and the use of sets and dictionaries.
 It is suitable for learners and anyone exploring basic web analytics or data engineering tasks.
